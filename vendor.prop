@@ -1,2 +1,5 @@
 # ALS
 vendor.sensors.als_correction.grabrect=675 0 740 60
+
+#Display
+debug.graphics.game_default_frame_rate.disabled=true
